@@ -1,0 +1,230 @@
+
+@font-face {
+	font-family: KaushanScript;
+	src: url("../fonts/KaushanScript.otf") format("truetype");
+	font-family: Ritagio;
+	src: url("../fonts/Ritagio.ttf") format("truetype");
+}
+
+h1{
+	font-family: KaushanScript;
+	color:#E24F1B;
+	text-align: left;
+	font-size: 30px;
+	margin-top: 15%;
+	margin-left: 40%;
+
+}
+h2{
+
+	font-family: KaushanScript;
+	color:#E24F1B;
+	text-align: left;
+	font-size: 20px;
+	margin-top: 20%;
+	margin-left: 30%;
+
+}
+.LOGO{
+	margin-top: 20%;
+	margin-left: 33%;
+	float: left;
+}
+
+a:link {
+    color: #F4F0F0;
+
+}
+
+/* visited link */
+a:visited {
+    color: #F4F0F0;
+}
+
+/* mouse over link */
+a:hover {
+    color: #E24F1B;
+}
+
+li{
+	color: #F4F0F0;
+	font-size: 20px;
+	
+	display: inline-block;
+	text-align: center;
+	width:25%;
+	font-family: KaushanScript;
+	margin-top: 1%;
+	
+
+}
+
+ul{
+	list-style-type: none;
+	margin-top: 0em;
+	margin-left: 10%;
+	padding: 0;
+	
+}
+
+.dropdown{
+	position: relative;
+	color: #F4F0F0;
+	padding: 10px 16px;
+}
+
+.Buttons
+:hover {
+	display: block;
+	z-index: 2
+}
+.dropdown-content a {
+	color: #d9add9;
+	padding: 10px 16px;
+	text-decoration: none;
+	display: block;
+	z-index: 1;
+}
+
+
+body{
+	background-color: #000000;
+
+
+}
+.reminder{
+	
+	text-align: center;
+	margin-top: 3%;
+	margin-left: -3%;
+	color:#E24F1B;
+padding: 4%;
+font-size: 5em;
+}
+.transparent_background{
+	
+	padding: 4%;
+}
+.Title_Page{
+	    font-size: 2.5em;
+		margin-top: 16%;
+		margin-left: 23%;
+}
+.Start_Button{
+	font-family: KaushanScript;
+	font-color:#FAFCFC;
+	font-size: 1.5em;
+	margin-top: 25%;
+	margin-left: 45%;
+}
+
+
+.video_frame{
+	border: 5px solid black;
+	margin-left: 5%;
+	margin-top: -5%;
+	width: 950px;
+	height: 500px;
+	background-color: #ffffff;
+	position:
+}
+video{
+	margin-left: 10%;
+	margin-top:0%;
+	z-index: 100;
+
+
+}
+
+
+.oneLine{
+	color:#ffffff;
+	font-size: 1em;
+	margin-top: 0%;
+	margin-left: 40%;
+}
+
+
+
+.PagesTitle{
+	text-align: center;
+	margin-top: 3%;
+	margin-left: -3%;
+	color:#E24F1B;
+padding: 4%;
+}
+.PagesContent{
+	 text-indent: 50px;
+	text-align: left;;
+	color: white;
+	margin-top: 0%;
+	margin-left: 0%;
+	font-family: Ritagio;
+	font-size: 17pt;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.JoinTitle{
+
+	text-align: center;
+	margin-top: 3%;
+	margin-left: -3%;
+	color:#E24F1B;
+	padding: 4%;
+
+}
+.JoinContent{
+	
+	text-align: center;
+	color: white;
+	margin-top: 15%;
+	margin-left: 0%;
+	font-family: Ritagio;
+	font-size: 20pt;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.floatLeft{
+	float:left;
+	margin-top: 5%;
+	margin-left: 5%;
+}
+.Homebutton{
+	margin-top:10%;
+	margin-left: 49%;
+}
+#HistoryBack{
+	margin-left: 48%;
+	margin-top: 8%;
+}
+#MissionBack{
+	margin-left: 48%;
+	margin-top: 13%;
+}
+
+#PS1C{
+	margin-left: 15%;
+	margin-top: 1.5%;
+}
+#PW1Back{
+	margin-left: 48%;
+	margin-top: 1.5%;
+}
+#PS2C{
+	margin-left: 25%;
+	margin-top: 1.5%;
+}
+#PW2Back{
+	margin-left: 80%;
+	margin-top: -1%;
+}
+
+#ContactContent{
+	margin-left: 5%;
+	margin-top: 20%;
+}
+ #ContactBack{
+ margin-left: 48%;
+	margin-top: 22%;
+}
+
