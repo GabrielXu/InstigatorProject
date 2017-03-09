@@ -58,6 +58,9 @@ li{
 	
 
 }
+img{
+	margin-left: 10%;
+}
 
 ul{
 	list-style-type: none;
@@ -119,20 +122,7 @@ font-size: 5em;
 }
 
 
-.video_frame{
-	border: 5px solid black;
-	margin-left: 5%;
-	margin-top: -5%;
-	width: 950px;
-	height: 500px;
-	background-color: #ffffff;
-	position:
-}
-video{
-	margin-left: 10%;
-	margin-top:0%;
-	z-index: 100;
-
+.
 
 }
 
@@ -156,7 +146,7 @@ padding: 4%;
 .PagesContent{
 	 text-indent: 50px;
 	text-align: left;;
-	color: white;
+	color: #e6e6e6;
 	margin-top: 0%;
 	margin-left: 0%;
 	font-family: Ritagio;
